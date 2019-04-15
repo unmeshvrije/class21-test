@@ -1,0 +1,2 @@
+# Add users into file 
+for i in {1..5}; do echo user-$i >> userlist.txt; done
