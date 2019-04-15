@@ -1,0 +1,11 @@
+man <command>
+-gets the manual page for <command>
+
+ls (-a -l)
+-lists all items and directories including hidden with details
+
+pwd
+-present working directory
+.
+.
+.
