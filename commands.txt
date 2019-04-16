@@ -1,3 +1,29 @@
-mkdir : create a directory
-touch : create a file
-pwd : present working directory
+ls       --> list
+pwd      --> predent working directory
+cd       --> change directory
+mkdir    --> make directory
+echo     --> to name 
+clear    --> to clear screen
+explorer --> opens GUI folder
+cat      --> concatenate (to open a file)
+>        --> insert into file
+>>       --> insert the last line 
+vim      --> opens file like notepad
+
+:wq      --> write and quit in vim
+a or i   --> insert mode 
+ESC      --> to exit from insert mode through command mode
+:q!      --> quit without saving 
+dd       --> to delete the file
+/...     --> to search sth inside the file
+
+less filename
+head filename  --> first 10 line
+head -15 filename  --> first 15 line
+tail filename  --> last 10 line
+tail -15 filename  --> last 15 line
+
+wc --> word count
+
+
+for i in {1..300}; do echo $i; done> longfile.txt
