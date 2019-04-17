@@ -1,0 +1,2 @@
+ls -all = list with more information 
+open . = open current directory 
