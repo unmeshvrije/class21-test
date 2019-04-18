@@ -1,3 +1,3 @@
-mkdir : create a directory
-touch : create a file
-pwd : present working directory
+mkdir: this command creates new folder
+touch: this command creates new empty file
+cd: this command changes directory
