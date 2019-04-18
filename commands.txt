@@ -1,3 +1,13 @@
 mkdir : create a directory
 touch : create a file
 pwd : present working directory
+1. ls
+The ls command - the list command - functions in the Linux terminal to show all of the major directories filed under a given file system.
+2. cd
+The cd command - change directory - will allow the user to change between file directories. As the name command name suggest, you would use the cd command to circulate between two different directories. For example, if you wanted to change from the home directory to the Arora directory, you would input the following command:
+3. mv
+The mv command - move - allows a user to move a file to another folder or directory. Just like dragging a file located on a PC desktop to a folder stored within the Documents folder, the mv command functions in the same manner.
+4. man
+The man command - the manual command - is used to show the manual of the inputted command. Just like a film on the nature of film, the man command is the meta command of the Linux CLI. Inputting the man command will show you all information about the command you are using.
+5. mkdir
+The mkdir - make directory - command allows the user to make a new directory. Just like making a new directory within a PC or Mac desktop environment, the mkdir command makes new directories in a Linux environment. 
