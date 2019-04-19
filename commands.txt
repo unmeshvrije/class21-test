@@ -1,1 +1,1 @@
-The > command redirects the standard output to a file.
+The cat command outputs the content of a file to the terminal
