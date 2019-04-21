@@ -1,3 +1,6 @@
 mkdir : create a directory
 touch : create a file
 pwd : present working directory
+git add <filename> Add one or more files to staging
+git init Create a new local repository
+git commit -a Commit any files you've added with git add, and also commit any files you've changed
