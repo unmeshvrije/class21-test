@@ -1,3 +1,8 @@
-mkdir : create a directory
-touch : create a file
-pwd : present working directory
+ls: List the items in the folder
+mkdir: Creates new folder
+pwd: show the current wprking directory
+touch: Creates new file
+cd: changes directory
+cp: copies files and folders
+rm:removes files and folders
+cat: prints the content of the file
