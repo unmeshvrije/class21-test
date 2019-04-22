@@ -1,3 +1,6 @@
 mkdir : create a directory
 touch : create a file
 pwd : present working directory
+1-ls: Lists the folder and file names in the current working directory
+2-cd: Change Directory to the path specified for example cd projects
+3-mkdir: Make directories with this command mkdir my_folder
