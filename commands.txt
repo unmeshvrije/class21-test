@@ -1,3 +1,3 @@
-mkdir : create a directory
-touch : create a file
-pwd : present working directory
+git rm --chaced: to remove an item
+git config --global user.email: to specify your identity
+git branch: to make a new branch
